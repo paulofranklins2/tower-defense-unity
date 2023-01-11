@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{540FB6BF-9174-03F9-82A3-5887450264D1}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Turrent.cs">
+    <Files>
+      <File FileName="Assets/WayPoint.cs" Line="18" Column="1" />
+      <File FileName="Assets/Enemy.cs" Line="32" Column="20" />
+      <File FileName="Assets/Turrent.cs" Line="55" Column="1" />
+      <File FileName="Assets/Scripts/WaveSpawner.cs" Line="30" Column="48" />
+      <File FileName="Assets/Scripts/bulletScript.cs" Line="47" Column="36" />
+      <File FileName="Assets/Scripts/Node.cs" Line="18" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TowerDefenseRoyal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Turrent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4204fdb2-19bf-4e6b-88b5-6a867fdc9f80" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
